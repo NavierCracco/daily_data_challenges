@@ -33,4 +33,5 @@ Practicar y mejorar habilidades en:
 - Resolución de problemas algorítmicos
 
 ---
-*Desafío diario para mantener las habilidades afiladas* 🚀
+
+_Desafío diario para mantener las habilidades afiladas_ 🚀🧉
